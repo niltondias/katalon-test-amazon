@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon login test</name>
+   <tag>testing</tag>
+   <comment></comment>
+   <testCaseGuid>8339b710-1f17-49c2-96a0-182f9c7a8d87</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75fbec26-c205-4a0f-8eae-b1bbab43a279</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
